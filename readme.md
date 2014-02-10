@@ -24,7 +24,6 @@ The Final Project for this course was to implement a B-Tree with a GUI. It has m
 ![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Random.png)
 
 **Insertar** : Insert
-![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Insert.png)
 
 **Buscar** : Search
 ![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Search.png)
