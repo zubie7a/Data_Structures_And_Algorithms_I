@@ -1,7 +1,7 @@
 ##Santiago Zubieta, Hector Alzate
 ####EAFIT University, 2011-2 
 
-#Data Structures and Algorithms I Course Project
+##Data Structures & Algorithms I Course Project
 The Final Project for this course was to implement a B-Tree with a GUI. It has manual input to search for a value, enter it or delete it, to load numbers from a text file, numbers in sequence from 0 to n, or n random numbers. It takes a while to load because it downloads the background image from the internet. This was made for educational purposes and is licensed under the MIT License.
 
 ###Input the tree order
