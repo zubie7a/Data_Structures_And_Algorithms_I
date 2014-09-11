@@ -5,9 +5,9 @@
 -Fools Garden, Lemon Tree
 
 ##Data Structures & Algorithms I Final Project
-The Final Project for this course was to implement a B-Tree with a GUI. It has manual input to search for a value, enter it or delete it, to load numbers from a text file, numbers in sequence from 0 to n, or n random numbers. It takes a while to load because it downloads the background image from the internet. This was made for educational purposes and is licensed under the MIT License.
+The Final Project for this course was to implement a B-Tree together with a GUI in **Java**. It has manual input to search for a value, enter it or delete it, to load numbers from a text file, numbers in sequence from 0 to n, or n random numbers. It takes a while to load because it downloads the background image from the internet. This was made for educational purposes and is licensed under the **MIT License**.
 
-###Input the tree order
+###Input the B-Tree order
 ![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Order.png)
 
 ###Graphical User Interface
