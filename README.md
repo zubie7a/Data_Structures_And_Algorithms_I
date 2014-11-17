@@ -8,28 +8,28 @@
 The Final Project for this course was to implement a B-Tree together with a GUI in **Java**. It has manual input to search for a value, enter it or delete it, to load numbers from a text file, numbers in sequence from 0 to n, or n random numbers. It takes a while to load because it downloads the background image from the internet. This was made for educational purposes and is licensed under the **MIT License**.
 
 ###Input the B-Tree order
-![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Order.png)
+![](https://raw.githubusercontent.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Order.png)
 
 ###Graphical User Interface
-![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_GUI.png)
+![](https://raw.githubusercontent.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_GUI.png)
 
 ###Basic Options
-![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Options.png)
+![](https://raw.githubusercontent.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Options.png)
 
 **Prueba**: Select kind of test
-![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Test.png)
+![](https://raw.githubusercontent.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Test.png)
 **Cargar Caso**: Test by loading numbers from a text file
 
 **Numeros en Secuencia**: test by inserting first n numbers, from 1 to n
-![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Sequence.png)
+![](https://raw.githubusercontent.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Sequence.png)
 
 **Numeros Aleatorios**: test by inserting insert n random numbers 
-![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Random.png)
+![](https://raw.githubusercontent.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Random.png)
 
 **Insertar** : Insert a given number
 
 **Buscar** : Search for a given number
-![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Search.png)
+![](https://raw.githubusercontent.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Search.png)
 
 **Eliminar** : Delete a given number
-![](https://raw2.github.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Delete.png)
+![](https://raw.githubusercontent.com/Zubieta/Data_Structures_And_Algorithms_I/master/Screenshots/DS1_Delete.png)
