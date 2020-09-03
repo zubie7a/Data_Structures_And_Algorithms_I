@@ -2,7 +2,7 @@
 #### Universidad EAFIT, 2011-2
 
 ## Data Structures & Algorithms I
-The **Final Project** for the **Data Structures and Algorithms I** course was to implement a **B-Tree** together with a **GUI** to manipulate it, in **Java**. It has manual input to search for a value, enter it or delete it, to load numbers from a text file, insert numbers in sequence from 1 to n, or n random numbers. It takes a while to load because it downloads the background image from the internet.
+The **Final Project** for the **Data Structures and Algorithms I** course was to implement a **B-Tree** together with a **GUI** to manipulate it, in **Java**. It has manual input to search for a value, enter it or delete it, to load numbers from a text file, insert numbers in sequence from 1 to n, or n random numbers. If the tree grows large enough to get "off screen", you can drag it with the mouse. It takes a while to load because it downloads the background image from the internet.
 
 This was made for educational purposes and is licensed under the **MIT License**.
 
